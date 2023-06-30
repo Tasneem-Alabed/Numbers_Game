@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vt+0svn3CA6ISmFI+sX/LwybwHRTBYk+MKYLBGPopPEUksEXtpQr8CMaPPpb9D0IemzmgCCtfJVcWWrP51JiwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tsnee\\source\\repos\\Numbers_Game\\NumberGame\\NumberGame\\NumberGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsnee\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\tsnee\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\tsnee\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\tsnee\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
